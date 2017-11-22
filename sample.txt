@@ -1,4 +1,1 @@
-this is the first message i write 
-by using git 
-second revision
-i modified thrid time
+thois is my fist cat file
